@@ -1,7 +1,11 @@
-# Hello-World 🌎
+# Hello-World 
+
+[![swift-version](https://img.shields.io/badge/swift-5-orange.svg)](https://github.com/apple/swift)
 
 
-First Ios App made using Xcode and swift 
+Created my first app is Xcode using swift. 
 
 
-Created by JB 
+
+
+Created by: JB 
