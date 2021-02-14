@@ -9,16 +9,13 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    
+    // Outlets - Link the Label from Storyboard to ViewController
     @IBOutlet weak var label: UILabel!
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
-        
+    // Change the text of the label
         label.text = "Hello World 🌎"
     }
-
-
 }
 
